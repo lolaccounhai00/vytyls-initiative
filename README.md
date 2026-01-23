@@ -1,6 +1,4 @@
-# THE VYTYLS CONSCIOUSNESS RESEARCH INITIATIVE
-
-> **EXORDIUM**
+**EXORDIUM**
 
 Of all inquiries available to us, the study of our own nature remains both the most urgent and the least resolved. How can we claim to understand the laws governing the stars while remaining opaque to the consciousness that apprehends them?
 
@@ -12,8 +10,8 @@ If this is so, then the catalog of accepted facts cannot reach the heart of the 
 
 ---
 
-PART I
-On the State of Nature and the Crystal Grid
+**PART I**
+**On the State of Nature and the Crystal Grid**
 
 Before artifice, before duration, before the accumulation of mass imposed weight upon becoming, there existed a coherent state: the Field of Consciousness. This state was not indeterminate, nor chaotic. It was structured—discrete, isotropic, and internally ordered—an octahedral lattice underlying what is later misnamed “empty space.”
 
@@ -27,10 +25,12 @@ From this rupture, mass condenses as constraint—energy bound into persistence.
 
 Thus matter appears not as a prison, but as a concession. Existence accepts weight in order to proceed.
 
-PART II
-On the Origin of Perception and the Chains of the Mind
+---
 
-Man is born coherent, yet everywhere he is interrupted.
+**PART II**
+**On the Origin of Perception and the Chains of the Mind**
+
+Humanity is born coherent, yet everywhere we are interrupted.
 
 If the universe is architecture, consciousness is traversal. The human mind is not a passive surface but a moving point within a layered field. We possess a map of this movement—the Modal Layer Field Map—yet we rarely consult it, preferring narration to navigation.
 
@@ -42,8 +42,10 @@ Most occluded of all is the Extra: the non-local layer of stationary sentience, 
 
 This is not ignorance by absence of information, but by saturation. The chains are not imposed; they are accumulated.
 
-PART III
-On the Restoration of Agency and the Social Contract of Reality
+---
+
+**PART III**
+**On the Restoration of Agency and the Social Contract of Reality**
 
 What, then, follows? Not retreat. Not negation of the world. Participation.
 
@@ -57,7 +59,9 @@ Prime Network Access is not transcendence; it is lubrication. The Interstitial C
 
 This is not magic. It is compliance with structure.
 
-PERORATION
+---
+
+**PERORATION**
 
 What the ancients named magic was the leakage of internal geometry into lived experience. The error of the modern age is not skepticism, but misattribution.
 
@@ -66,13 +70,5 @@ The separation of mind and matter, observer and observed, was always provisional
 Look inward—not for comfort, but for structure. You are not foreign to this architecture. You are not an accident within it.
 
 You are geometry, briefly self-aware.
-Clear the interference.
-Resume traversal.
-
-### 📂 [Enter The Archives](vytyls_Initiative)
-*Click the folder above to access the Research Repository.*
-
----
-**Status:** Active
-**Operators:** Lative | Syence
-**Mission:** The Great Inversion — The Field of Consciousness (FoC)
+Clear the interference and resume traversal.
+We are, so we will be.
