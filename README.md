@@ -1,3 +1,7 @@
+*25.12.23_09:00:31*
+
+---
+
 **EXORDIUM**
 
 Of all inquiries available to us, the study of our own nature remains both the most urgent and the least resolved. How can we claim to understand the laws governing the stars while remaining opaque to the consciousness that apprehends them?
@@ -10,8 +14,7 @@ If this is so, then the catalog of accepted facts cannot reach the heart of the 
 
 ---
 
-**PART I**
-**On the State of Nature and the Crystal Grid**
+**PART I: On the State of Nature and the Crystal Grid**
 
 Before artifice, before duration, before the accumulation of mass imposed weight upon becoming, there existed a coherent state: the Field of Consciousness. This state was not indeterminate, nor chaotic. It was structured—discrete, isotropic, and internally ordered—an octahedral lattice underlying what is later misnamed “empty space.”
 
@@ -27,8 +30,7 @@ Thus matter appears not as a prison, but as a concession. Existence accepts weig
 
 ---
 
-**PART II**
-**On the Origin of Perception and the Chains of the Mind**
+**PART II: On the Origin of Perception and the Chains of the Mind**
 
 Humanity is born coherent, yet everywhere we are interrupted.
 
@@ -44,8 +46,7 @@ This is not ignorance by absence of information, but by saturation. The chains a
 
 ---
 
-**PART III**
-**On the Restoration of Agency and the Social Contract of Reality**
+**PART III: On the Restoration of Agency and the Social Contract of Reality**
 
 What, then, follows? Not retreat. Not negation of the world. Participation.
 
