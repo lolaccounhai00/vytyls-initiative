@@ -2,9 +2,8 @@
 title: EFP-01 - Operating Procedure
 date: 25.08.19
 time: 01:16:29
-author: Lative, ChatGPT
-source: Chat
-dataview: true
+author: Lative
+source: Synthesis
 tags:
   - "#EFP-01"
   - "#FluidDynamics"
