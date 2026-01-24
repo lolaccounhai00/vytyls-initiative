@@ -4,7 +4,7 @@ graph LR
     classDef vessel fill:#1c1e24,stroke:#01579b,stroke-width:2px;
     classDef pump fill:#262c36,stroke:#004d40,stroke-width:2px;
     classDef valve fill:#0d1117,stroke:#e65100,stroke-width:2px,shape:diamo;
-    classDef instrument fill:#f3e5f5,stroke:#4a148c,stroke-width:1px,stroke-dasharray: 5 5;
+    classDef instrument fill:#151b23,stroke:#4a148c,stroke-width:1px,stroke-dasharray: 5 5;
     classDef outlet fill:#474949,stroke:#b71c1c,stroke-width:2px,stroke-dasharray: 5 5;
 
     %% --- Main Reservoirs ---
