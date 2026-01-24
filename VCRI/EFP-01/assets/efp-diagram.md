@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     %% --- Styles ---
     classDef vessel fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
@@ -66,3 +67,4 @@ graph LR
     PT101(PT-101<br>Pressure) -.-> R2
     TC401(TC-401<br>Turbulence) -.-> IR101
     AI501(AI-501<br>Integration) -.-> CV202
+```
