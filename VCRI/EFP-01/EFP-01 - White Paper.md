@@ -2,8 +2,7 @@
 title: The Emotional Fluid Processor (EFP-01) - A Systems Engineering Framework for Advanced Emotional Regulation
 date: 26.01.24
 time: 20:31:23
-author: Lative, NotebookLM
-source: "NotebookLM Studio: Report"
+author: Lative
 dataview: true
 tags:
   - EFP-01
